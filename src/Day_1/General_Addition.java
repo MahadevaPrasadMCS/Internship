@@ -1,3 +1,5 @@
+package Day_1;
+
 class Addition
 {
     public static void main(String args[])

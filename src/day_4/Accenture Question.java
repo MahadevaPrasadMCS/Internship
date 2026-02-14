@@ -1,4 +1,4 @@
-package Accenture_Questions;
+package day_4;
 
 // The function accepts R and Unit, and a positive integer array named arr of n as its arguments.
 // 1. 'r' represents number of rats present in the area.

@@ -1,4 +1,4 @@
-/*
+package day_4;/*
 1. Password length should be at-least  6 characters.
 2.
 */

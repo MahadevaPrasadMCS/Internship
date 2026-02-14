@@ -1,4 +1,4 @@
-package OOPs_in_Java;
+package Day_5.OOPs_in_Java;
 
 class Swap
 {

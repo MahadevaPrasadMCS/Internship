@@ -1,3 +1,5 @@
+package Day_5.OOPs_in_Java;
+
 public class GCD {
     public static int gcd_recursive(int n1, int n2)
     {

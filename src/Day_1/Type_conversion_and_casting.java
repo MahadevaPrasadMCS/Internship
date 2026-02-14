@@ -1,3 +1,5 @@
+package Day_1;
+
 class Type_convert_and_cast
 {
     public static void main(String[] args)

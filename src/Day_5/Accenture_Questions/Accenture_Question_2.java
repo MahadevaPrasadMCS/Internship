@@ -1,4 +1,4 @@
-package Accenture_Questions;
+package Day_5.Accenture_Questions;
 
 public class Accenture_Question_2 {
     public static void bit_operation_array(String str) {

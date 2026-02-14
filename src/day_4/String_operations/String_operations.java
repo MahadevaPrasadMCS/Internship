@@ -1,4 +1,4 @@
-package Java_OOP.String_operations;
+package day_4.String_operations;
 
 public class String_operations
 {
